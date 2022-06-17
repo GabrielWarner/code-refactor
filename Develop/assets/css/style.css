@@ -1,3 +1,4 @@
+/* Universal Selectors*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* HEADER*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +42,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* General*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* HERO BANNER*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Positioning*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* SIDE PANEL*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +136,7 @@ p {
     max-width: 150px;
 }
 
+/* MAIN 3 PANELS*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +190,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* FOOTER*/
 .footer {
     padding: 30px;
     clear: both;
