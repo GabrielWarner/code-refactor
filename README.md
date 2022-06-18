@@ -9,10 +9,8 @@ Description: This is the first challenge assignment for the UW coding bootcamp. 
 # Making sure the headings fell in sequential order
 # Used a concise descriptive title
 
-<<<<<<< HEAD
 # https://gabrielwarner.github.io/code-refactor/
 
-=======
 Link to URL: https://gabrielwarner.github.io/code-refactor/
->>>>>>> 3a504018c0208b15666b1fb9462c5c7e217c4bf6
 
+![Alt text](horiseon.JPG?raw=true "Optional Title")
