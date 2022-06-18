@@ -6,6 +6,7 @@
 }
 
 /* General*/
+/* Moved anything that was sort of general to one area */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -80,6 +81,7 @@ body {
 }
 
 /* MAIN 3 SECTION PANELS*/
+/* since the 3 panels are identical just different images and words I gave them the same class name and condensed the code */
 .section-panel{
     margin-bottom: 20px;
     padding: 50px;
@@ -98,7 +100,9 @@ body {
     font-size: 36px;
 }
 
+
 /* SIDE PANEL*/
+/* Gave the 3 sections of the side panel the same class and condensed the code down */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,7 +130,6 @@ body {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 
 

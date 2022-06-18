@@ -1,4 +1,4 @@
-# code-refactor
+# code-refactor module 1 assignment
 
 # Things done to this html document include:
 # Replacing elements with semantic elements.
@@ -6,4 +6,7 @@
 # Added accesible alt attributes to all pictures and captions
 # Making sure the headings fell in sequential order
 # Used a concise descriptive title
+
+# https://gabrielwarner.github.io/code-refactor/
+
 
